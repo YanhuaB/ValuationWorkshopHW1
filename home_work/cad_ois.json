@@ -1,0 +1,630 @@
+{
+  "code": 29993,
+  "schema": "yieldCurve",
+  "identifier": {
+    "currency": "CAD",
+    "family": "OIS",
+    "name": "YC-ORSD_EOD_TOR-CAD-OIS-1D"
+  },
+  "name": "YC-ORSD_EOD_TOR-CAD-OIS-1D",
+  "inputs": {
+    "underlyingAssets": [
+      {
+        "instrumentIdentifier": {
+          "sophis": 676964357,
+          "sophisReference": "CAD_OIS_Zero"
+        }
+      }
+    ]
+  },
+  "model": "Standard",
+  "spread": {
+    "spreadValue": 0,
+    "spreadType": "Undefined"
+  },
+  "points": {
+    "curvePoints": [
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 1,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 4.529718914997,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 32,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 4.428923416175,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 62,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 4.346207624894,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 95,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 4.244126049009,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 123,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 4.181535590592,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 154,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 4.102040249223,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 187,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 4.027800982458,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 274,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 3.837021694882,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 368,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 3.658666843862,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 459,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 3.491862959963,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 551,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 3.397200633179,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 732,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 3.212526531849,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 1096,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 2.998191594558,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 1462,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 2.876910510338,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 1827,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 2.818882089289,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 2192,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 2.817368818667,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 2559,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 2.84003208991,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 2923,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 2.873352910339,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 3288,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 2.913701231082,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 3653,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 2.953014120601,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 4386,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 3.038037106059,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 5479,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 3.140022906485,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 7306,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 3.186607648743,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 9132,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 3.090639466383,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 10959,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 2.972431203103,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 14613,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 2.715174804666,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      },
+      {
+        "term": {
+          "tenor": {
+            "periodMultiplier": 18263,
+            "periodEnum": "Day"
+          }
+        },
+        "yield": 2.74985310069,
+        "extraFields": {
+          "rateCode": 0,
+          "isUsed": "true"
+        },
+        "isBond": "false"
+      }
+    ]
+  },
+  "mMToFuturesFRAsSmoothing": "XXX",
+  "futuresFRAsToSwapsSmoothing": "XXX",
+  "zeroCurve": {
+    "points": [
+      {
+        "date": "2024-08-16",
+        "discountFactor": 0.9998759058122386,
+        "yield": 0.0452971891500032,
+        "productType": "money market",
+        "tenor": "1d",
+        "parQuote": 4.52971891499701
+      },
+      {
+        "date": "2024-09-16",
+        "discountFactor": 0.9961246369145944,
+        "yield": 0.04428923416174937,
+        "productType": "money market",
+        "tenor": "32d",
+        "parQuote": 4.42892341617491
+      },
+      {
+        "date": "2024-10-16",
+        "discountFactor": 0.9926445851941927,
+        "yield": 0.04346207624893884,
+        "productType": "money market",
+        "tenor": "62d",
+        "parQuote": 4.346207624893919
+      },
+      {
+        "date": "2024-11-18",
+        "discountFactor": 0.9890144314839093,
+        "yield": 0.04244126049008933,
+        "productType": "money market",
+        "tenor": "95d",
+        "parQuote": 4.244126049008909
+      },
+      {
+        "date": "2024-12-16",
+        "discountFactor": 0.986007614170167,
+        "yield": 0.04181535590592369,
+        "productType": "money market",
+        "tenor": "123d",
+        "parQuote": 4.1815355905924
+      },
+      {
+        "date": "2025-01-16",
+        "discountFactor": 0.9828416716263557,
+        "yield": 0.041020402492226854,
+        "productType": "money market",
+        "tenor": "154d",
+        "parQuote": 4.1020402492226795
+      },
+      {
+        "date": "2025-02-18",
+        "discountFactor": 0.9795758735215406,
+        "yield": 0.04027800982458099,
+        "productType": "money market",
+        "tenor": "187d",
+        "parQuote": 4.0278009824581105
+      },
+      {
+        "date": "2025-05-16",
+        "discountFactor": 0.9716069354726582,
+        "yield": 0.03837021694882313,
+        "productType": "money market",
+        "tenor": "274d",
+        "parQuote": 3.8370216948823197
+      },
+      {
+        "date": "2025-08-18",
+        "discountFactor": 0.9637846699132923,
+        "yield": 0.036586668438620774,
+        "productType": "money market",
+        "tenor": "368d",
+        "parQuote": 3.6586668438620698
+      },
+      {
+        "date": "2025-11-17",
+        "discountFactor": 0.9570387736061547,
+        "yield": 0.034918629599634134,
+        "productType": "money market",
+        "tenor": "459d",
+        "parQuote": 3.4918629599634197
+      },
+      {
+        "date": "2026-02-17",
+        "discountFactor": 0.9500090496718862,
+        "yield": 0.03397200633179361,
+        "productType": "money market",
+        "tenor": "551d",
+        "parQuote": 3.39720063317936
+      },
+      {
+        "date": "2026-08-17",
+        "discountFactor": 0.9376049699226359,
+        "yield": 0.03212526531848605,
+        "productType": "money market",
+        "tenor": "732d",
+        "parQuote": 3.2125265318486003
+      },
+      {
+        "date": "2027-08-16",
+        "discountFactor": 0.9139056960199338,
+        "yield": 0.02998191594557811,
+        "productType": "money market",
+        "tenor": "1096d",
+        "parQuote": 2.99819159455781
+      },
+      {
+        "date": "2028-08-16",
+        "discountFactor": 0.8911575357447935,
+        "yield": 0.028769105103382313,
+        "productType": "money market",
+        "tenor": "1462d",
+        "parQuote": 2.87691051033823
+      },
+      {
+        "date": "2029-08-16",
+        "discountFactor": 0.8684037143466422,
+        "yield": 0.02818882089289139,
+        "productType": "money market",
+        "tenor": "1827d",
+        "parQuote": 2.81888208928914
+      },
+      {
+        "date": "2030-08-16",
+        "discountFactor": 0.8443429690511325,
+        "yield": 0.028173688186668416,
+        "productType": "money market",
+        "tenor": "2192d",
+        "parQuote": 2.81736881866684
+      },
+      {
+        "date": "2031-08-18",
+        "discountFactor": 0.8194568938858114,
+        "yield": 0.02840032089910131,
+        "productType": "money market",
+        "tenor": "2559d",
+        "parQuote": 2.84003208991013
+      },
+      {
+        "date": "2032-08-16",
+        "discountFactor": 0.7944506584627061,
+        "yield": 0.028733529103386796,
+        "productType": "money market",
+        "tenor": "2923d",
+        "parQuote": 2.8733529103386797
+      },
+      {
+        "date": "2033-08-16",
+        "discountFactor": 0.7691474440341847,
+        "yield": 0.029137012310824297,
+        "productType": "money market",
+        "tenor": "3288d",
+        "parQuote": 2.9137012310824297
+      },
+      {
+        "date": "2034-08-16",
+        "discountFactor": 0.7441265790044671,
+        "yield": 0.029530141206015,
+        "productType": "money market",
+        "tenor": "3653d",
+        "parQuote": 2.9530141206015
+      },
+      {
+        "date": "2036-08-18",
+        "discountFactor": 0.6941523236115387,
+        "yield": 0.030380371060592194,
+        "productType": "money market",
+        "tenor": "4386d",
+        "parQuote": 3.0380371060592197
+      },
+      {
+        "date": "2039-08-16",
+        "discountFactor": 0.6241606148925813,
+        "yield": 0.031400229064850696,
+        "productType": "money market",
+        "tenor": "5479d",
+        "parQuote": 3.1400229064850698
+      },
+      {
+        "date": "2044-08-16",
+        "discountFactor": 0.5284297765331979,
+        "yield": 0.031866076487434995,
+        "productType": "money market",
+        "tenor": "7306d",
+        "parQuote": 3.1866076487434993
+      },
+      {
+        "date": "2049-08-16",
+        "discountFactor": 0.4615095222583468,
+        "yield": 0.030906394663831497,
+        "productType": "money market",
+        "tenor": "9132d",
+        "parQuote": 3.09063946638315
+      },
+      {
+        "date": "2054-08-17",
+        "discountFactor": 0.40964584339333154,
+        "yield": 0.029724312031027194,
+        "productType": "money market",
+        "tenor": "10959d",
+        "parQuote": 2.97243120310272
+      },
+      {
+        "date": "2064-08-18",
+        "discountFactor": 0.33721419049315726,
+        "yield": 0.0271517480466577,
+        "productType": "money market",
+        "tenor": "14613d",
+        "parQuote": 2.7151748046657698
+      },
+      {
+        "date": "2074-08-16",
+        "discountFactor": 0.2526106394799528,
+        "yield": 0.027498531006902804,
+        "productType": "money market",
+        "tenor": "18263d",
+        "parQuote": 2.74985310069028
+      }
+    ]
+  },
+  "curveDate": "2024-08-15"
+}

@@ -1,0 +1,1290 @@
+[
+    {
+        "inventoryId": 2799,
+        "inventoryName": "GED SEASG D1 CO",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Delta One"
+    },
+    {
+        "inventoryId": 2043,
+        "inventoryName": "GED SEASG OPT SGD",
+        "inventoryCurrency": "USD",
+        "productLine": "Equity Options",
+        "region": "GED Singapore",
+        "book": "SG Options"
+    },
+    {
+        "inventoryId": 2801,
+        "inventoryName": "GED SEASG D1 DIR",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Delta One"
+    },
+    {
+        "inventoryId": 1943,
+        "inventoryName": "GED TDBSG INTL SALES",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Delta One Sales"
+    },
+    {
+        "inventoryId": 1808,
+        "inventoryName": "SGP CADARB",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Futures Market Making"
+    },
+    {
+        "inventoryId": 2800,
+        "inventoryName": "GED SEASG D1 DIR CO",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Delta One"
+    },
+    {
+        "inventoryId": 2142,
+        "inventoryName": "GED SEASG INTDLTA1 SWP",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Delta One"
+    },
+    {
+        "inventoryId": 2804,
+        "inventoryName": "GED SEASG D1 DIR TERM SGD",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Delta One"
+    },
+    {
+        "inventoryId": 2042,
+        "inventoryName": "GED SEASG OPT",
+        "inventoryCurrency": "USD",
+        "productLine": "Equity Options",
+        "region": "GED Singapore",
+        "book": "SG Options"
+    },
+    {
+        "inventoryId": 1930,
+        "inventoryName": "GED SEASG INTDLTA1",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Delta One"
+    },
+    {
+        "inventoryId": 2802,
+        "inventoryName": "GED SEASG D1 DIR SGD",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Delta One"
+    },
+    {
+        "inventoryId": 2141,
+        "inventoryName": "GED SEASG INTDLTA1 SGD",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Delta One"
+    },
+    {
+        "inventoryId": 2619,
+        "inventoryName": "GED SEASG EXOTIC",
+        "inventoryCurrency": "USD",
+        "productLine": "Equity Options",
+        "region": "GED Singapore",
+        "book": "SG Equity Options"
+    },
+    {
+        "inventoryId": 2044,
+        "inventoryName": "GED SEASG GLOBSWP SGD",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Global Swaps"
+    },
+    {
+        "inventoryId": 2001,
+        "inventoryName": "GED SEASG GLOBARB SGD",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Futures Market Making"
+    },
+    {
+        "inventoryId": 1941,
+        "inventoryName": "GED TDBSG MM SALES",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Market Making Sales"
+    },
+    {
+        "inventoryId": 2803,
+        "inventoryName": "GED SEASG D1 DIR TERM",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Delta One"
+    },
+    {
+        "inventoryId": 1929,
+        "inventoryName": "GED SEASG GLOBARB",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Futures Market Making"
+    },
+    {
+        "inventoryId": 1981,
+        "inventoryName": "GED TDNNY EQDERIV",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY Swap"
+    },
+    {
+        "inventoryId": 1982,
+        "inventoryName": "GED TDNNY INTDLTA1",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY Swap"
+    },
+    {
+        "inventoryId": 2359,
+        "inventoryName": "GED SEASG INTDLTA1 SGD SWP",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Delta One"
+    },
+    {
+        "inventoryId": 3199,
+        "inventoryName": "GED TDBTO ETFCTL",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY ETF"
+    },
+    {
+        "inventoryId": 3179,
+        "inventoryName": "GED TDBTO NYLLCNOTES INV",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED New York",
+        "book": "NY CED 2"
+    },
+    {
+        "inventoryId": 3201,
+        "inventoryName": "GED TDBTO NYSECFUND",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY Swap"
+    },
+    {
+        "inventoryId": 2939,
+        "inventoryName": "GED TDSTO FUTMM_OPP",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Futures Market Making"
+    },
+    {
+        "inventoryId": 2819,
+        "inventoryName": "GED TDBLN GLOBSWP_DISCR1",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED London",
+        "book": "LN Global Swaps"
+    },
+    {
+        "inventoryId": 2781,
+        "inventoryName": "GED TDBTO USEQFUND",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY Delta One"
+    },
+    {
+        "inventoryId": 2579,
+        "inventoryName": "GED TDBTO SNOTES IS",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED Toronto",
+        "book": "TO Notes"
+    },
+    {
+        "inventoryId": 2561,
+        "inventoryName": "GED TDSTO ETF RW",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO ETF Trading"
+    },
+    {
+        "inventoryId": 2540,
+        "inventoryName": "GED TDSTO USAVG",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "",
+        "book": "TO Averaging"
+    },
+    {
+        "inventoryId": 2460,
+        "inventoryName": "GED TDSTO USD ERROR",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "GED Error Account"
+    },
+    {
+        "inventoryId": 2441,
+        "inventoryName": "GED TDBTO CADIDXO",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED Toronto",
+        "book": "TO Index Options"
+    },
+    {
+        "inventoryId": 2448,
+        "inventoryName": "GED TDBTO CADSSO2",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED Toronto",
+        "book": "TO SS Options"
+    },
+    {
+        "inventoryId": 2301,
+        "inventoryName": "GED TDBTO SNOTESCASH",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED Toronto",
+        "book": "TO Notes"
+    },
+    {
+        "inventoryId": 3203,
+        "inventoryName": "GED TDBTO GLBSWAP QDD",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Global QDD"
+    },
+    {
+        "inventoryId": 2204,
+        "inventoryName": "GED TDSTO ATS_SI",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2186,
+        "inventoryName": "GED TDSTO ATS_WE",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2182,
+        "inventoryName": "GED TDSTO ATS_SQ",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2176,
+        "inventoryName": "GED TDSTO FUTMM",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Futures Market Making"
+    },
+    {
+        "inventoryId": 2201,
+        "inventoryName": "GED TDSTO ATS_SE",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2189,
+        "inventoryName": "GED TDSTO ATS_UH",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2121,
+        "inventoryName": "GED TDBTO USINDXOPT2",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED New York",
+        "book": "NY Options"
+    },
+    {
+        "inventoryId": 2563,
+        "inventoryName": "GED TDSTO ETF XI",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO ETF Trading"
+    },
+    {
+        "inventoryId": 2202,
+        "inventoryName": "GED TDSTO ATS_SF",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2166,
+        "inventoryName": "GED TDBTO CDNDLTA1_CORP_90E",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Delta One"
+    },
+    {
+        "inventoryId": 2219,
+        "inventoryName": "GED TDBTO ATS_GOLDFUT",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 1985,
+        "inventoryName": "GED TDBTO USEQFUT",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY Futures"
+    },
+    {
+        "inventoryId": 2183,
+        "inventoryName": "GED TDSTO ATS_SU",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2459,
+        "inventoryName": "GED TDSTO CAD ERROR",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "GED Error Account"
+    },
+    {
+        "inventoryId": 2308,
+        "inventoryName": "GED TDBTO VNOTESCASH",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED Toronto",
+        "book": "TO Vanilla Notes"
+    },
+    {
+        "inventoryId": 2021,
+        "inventoryName": "GED TDBTO TORNYSSO",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED New York",
+        "book": "NY Options"
+    },
+    {
+        "inventoryId": 2066,
+        "inventoryName": "GED TDBLN EUINDXOPT",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED London",
+        "book": "LN Options"
+    },
+    {
+        "inventoryId": 2069,
+        "inventoryName": "GED TDBLN EUCEDOPT",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED London",
+        "book": "LN CED"
+    },
+    {
+        "inventoryId": 2449,
+        "inventoryName": "FUNDING TDBTO CADSSO",
+        "inventoryCurrency": "CAD",
+        "productLine": "",
+        "region": "GED Toronto",
+        "book": ""
+    },
+    {
+        "inventoryId": 2919,
+        "inventoryName": "GED TDBTO FUTMM_OPP",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Futures Market Making"
+    },
+    {
+        "inventoryId": 2779,
+        "inventoryName": "GED TDBTO GLBSWAP_OPP",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Global Swaps"
+    },
+    {
+        "inventoryId": 2599,
+        "inventoryName": "GED TDBLN MUTFUND",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED London",
+        "book": "LN Delta One"
+    },
+    {
+        "inventoryId": 2567,
+        "inventoryName": "GED TDSTO ETF RA",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO ETF Trading"
+    },
+    {
+        "inventoryId": 2447,
+        "inventoryName": "GED TDBTO CADSSO",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED Toronto",
+        "book": "TO SS Options"
+    },
+    {
+        "inventoryId": 3079,
+        "inventoryName": "GED TDBTO TORNYVIX",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED New York",
+        "book": "NY Options"
+    },
+    {
+        "inventoryId": 2300,
+        "inventoryName": "GED TDSTO SNOTES",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED Toronto",
+        "book": "TO Notes"
+    },
+    {
+        "inventoryId": 2240,
+        "inventoryName": "GED TDSTO CDNDLTA1D",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Delta One"
+    },
+    {
+        "inventoryId": 2198,
+        "inventoryName": "GED TDBTO ATS_CPRFUT",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2185,
+        "inventoryName": "GED TDSTO ATS_VJ",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2180,
+        "inventoryName": "GED TDSTO ATS_SJ",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2165,
+        "inventoryName": "GED TDBTO CDNDLTA1_75E",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Delta One"
+    },
+    {
+        "inventoryId": 2439,
+        "inventoryName": "GED TDSTO CADIDXO2",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED Toronto",
+        "book": "TO Index Options"
+    },
+    {
+        "inventoryId": 2161,
+        "inventoryName": "GED TDBTO CDNDLTA1_26E",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Delta One"
+    },
+    {
+        "inventoryId": 2196,
+        "inventoryName": "GED TDBTO ATS_OILFUT",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 3219,
+        "inventoryName": "GED TDSTO INTDLTA1",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Worldwide Synthetics"
+    },
+    {
+        "inventoryId": 2197,
+        "inventoryName": "GED TDBTO ATS_NGFUT",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2523,
+        "inventoryName": "GED TDSTO NYSLCOM",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED Toronto",
+        "book": "TO Commissions"
+    },
+    {
+        "inventoryId": 2023,
+        "inventoryName": "GED TDBTO USEQDERIV",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED New York",
+        "book": "NY Accumulators"
+    },
+    {
+        "inventoryId": 2022,
+        "inventoryName": "GED TDBTO USINDXOPT",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED New York",
+        "book": "NY Options"
+    },
+    {
+        "inventoryId": 2187,
+        "inventoryName": "GED TDSTO ATS_YJ",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 1961,
+        "inventoryName": "GED SEASG GLOBSWP",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Global Swaps"
+    },
+    {
+        "inventoryId": 2480,
+        "inventoryName": "GED TDBTO USNOTE2 INV",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "",
+        "book": "NY CED"
+    },
+    {
+        "inventoryId": 2311,
+        "inventoryName": "GED TDBTO USNOTES",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED New York",
+        "book": "NY CED"
+    },
+    {
+        "inventoryId": 2193,
+        "inventoryName": "GED TDSTO ATS_YZ",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 1924,
+        "inventoryName": "GED TDBTO INTDLTA1",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Worldwide Synthetics"
+    },
+    {
+        "inventoryId": 2260,
+        "inventoryName": "FUNDING TORNYRC",
+        "inventoryCurrency": "CAD",
+        "productLine": "New York Options",
+        "region": "GED New York",
+        "book": "N/A"
+    },
+    {
+        "inventoryId": 3059,
+        "inventoryName": "GED TDNYLLC NOTES",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED New York",
+        "book": "NY CED TDNY"
+    },
+    {
+        "inventoryId": 2999,
+        "inventoryName": "GED TDBTO USEQIFWD",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY Issuer Forward"
+    },
+    {
+        "inventoryId": 2879,
+        "inventoryName": "GED TDBTO SECURED_FINANCE",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Global Swaps"
+    },
+    {
+        "inventoryId": 2580,
+        "inventoryName": "GED TDBTO SNOTES2 IS",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED Toronto",
+        "book": "TO Notes 2"
+    },
+    {
+        "inventoryId": 2565,
+        "inventoryName": "GED TDSTO ETF RQ",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO ETF Trading"
+    },
+    {
+        "inventoryId": 2543,
+        "inventoryName": "GED TDSTO ETFTRADING",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO ETF Trading"
+    },
+    {
+        "inventoryId": 2445,
+        "inventoryName": "GED TDSTO CADSSO2",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED Toronto",
+        "book": "TO SS Options"
+    },
+    {
+        "inventoryId": 2339,
+        "inventoryName": "GED TDBLN SALES",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED London",
+        "book": "LN Options Sales"
+    },
+    {
+        "inventoryId": 2303,
+        "inventoryName": "GED TDSTO SNOTES2",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED Toronto",
+        "book": "TO Notes 2"
+    },
+    {
+        "inventoryId": 2306,
+        "inventoryName": "GED TDBTO VNOTES",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED Toronto",
+        "book": "TO Vanilla Notes"
+    },
+    {
+        "inventoryId": 2239,
+        "inventoryName": "GED TDBTO CDNDLTA1D",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Delta One"
+    },
+    {
+        "inventoryId": 2184,
+        "inventoryName": "GED TDSTO ATS_SV",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2167,
+        "inventoryName": "GED TDBTO CDNDLTA1_04E",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Delta One"
+    },
+    {
+        "inventoryId": 2164,
+        "inventoryName": "GED TDBTO CDNDLTA1_74E",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Delta One"
+    },
+    {
+        "inventoryId": 3001,
+        "inventoryName": "GED TDBTO USEQPORT",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY Swap"
+    },
+    {
+        "inventoryId": 2064,
+        "inventoryName": "GED TDBLN GLOBARB",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED London",
+        "book": "LN Futures Market Making"
+    },
+    {
+        "inventoryId": 2499,
+        "inventoryName": "GED TDSTO CADWRTS",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED Toronto",
+        "book": "TO SS Options"
+    },
+    {
+        "inventoryId": 2061,
+        "inventoryName": "GED TDBLN GLOBSWP",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED London",
+        "book": "LN Global Swaps"
+    },
+    {
+        "inventoryId": 2539,
+        "inventoryName": "GED TDSTO SSAVG",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED Toronto",
+        "book": "TO Averaging"
+    },
+    {
+        "inventoryId": 2562,
+        "inventoryName": "GED TDSTO ETF TA",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "",
+        "book": "TO ETF Trading"
+    },
+    {
+        "inventoryId": 2190,
+        "inventoryName": "GED TDSTO ATS_UQ",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2067,
+        "inventoryName": "GED TDBLN EUSSOPT",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED London",
+        "book": "LN Options"
+    },
+    {
+        "inventoryId": 2191,
+        "inventoryName": "GED TDSTO ATS_VX",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 3019,
+        "inventoryName": "GED TDBSG MM SALES SGD",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Singapore",
+        "book": "SG Market Making Sales"
+    },
+    {
+        "inventoryId": 2560,
+        "inventoryName": "GED TDSTO ETF XW",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO ETF Trading"
+    },
+    {
+        "inventoryId": 2340,
+        "inventoryName": "FUNDING_GED TDBLN SALES",
+        "inventoryCurrency": "CAD",
+        "productLine": "",
+        "region": "GED London",
+        "book": ""
+    },
+    {
+        "inventoryId": 2760,
+        "inventoryName": "GED TDBTO ETFCMDTY",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO ETF Trading"
+    },
+    {
+        "inventoryId": 2759,
+        "inventoryName": "GED TDSTO ETFCMDTY",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO ETF Trading"
+    },
+    {
+        "inventoryId": 2566,
+        "inventoryName": "GED TDSTO ETF XG",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO ETF Trading"
+    },
+    {
+        "inventoryId": 2541,
+        "inventoryName": "GED TDSTO CADAVG",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "",
+        "book": "TO Averaging"
+    },
+    {
+        "inventoryId": 2420,
+        "inventoryName": "GED TDSTO CADIDXO",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED Toronto",
+        "book": "TO Index Options"
+    },
+    {
+        "inventoryId": 2312,
+        "inventoryName": "GED TDSTO USNOTES",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED New York",
+        "book": "NY CED"
+    },
+    {
+        "inventoryId": 2242,
+        "inventoryName": "GED TDSTO GLBSWAPD",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Global Swaps"
+    },
+    {
+        "inventoryId": 2222,
+        "inventoryName": "GED TDSTO ATS_DRIP",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO DRIPS"
+    },
+    {
+        "inventoryId": 2442,
+        "inventoryName": "GED TDBTO CADIDXO2",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED Toronto",
+        "book": "TO Index Options"
+    },
+    {
+        "inventoryId": 2559,
+        "inventoryName": "GED TDSTO ETF RX",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO ETF Trading"
+    },
+    {
+        "inventoryId": 2163,
+        "inventoryName": "GED TDBTO CDNDLTA1_05E",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Delta One"
+    },
+    {
+        "inventoryId": 2171,
+        "inventoryName": "GED TDSTO GLBSWAP",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Global Swaps"
+    },
+    {
+        "inventoryId": 2313,
+        "inventoryName": "GED TDBTO USCASH",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED New York",
+        "book": "NY CED"
+    },
+    {
+        "inventoryId": 2083,
+        "inventoryName": "GED TDBTO USEQGLOB",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY Swap"
+    },
+    {
+        "inventoryId": 2062,
+        "inventoryName": "GED TDBLN INTDLTA1",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED London",
+        "book": "LN Delta One"
+    },
+    {
+        "inventoryId": 2194,
+        "inventoryName": "GED TDBTO ATS_EQFUT",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2200,
+        "inventoryName": "GED TDSTO ATS_SD",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2025,
+        "inventoryName": "GED TDBTO USNOTE2",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "",
+        "book": "NY CED"
+    },
+    {
+        "inventoryId": 2024,
+        "inventoryName": "GED TDBTO USNOTE1",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED New York",
+        "book": "NY CED"
+    },
+    {
+        "inventoryId": 2299,
+        "inventoryName": "GED TDBTO SNOTES",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED Toronto",
+        "book": "TO Notes"
+    },
+    {
+        "inventoryId": 2181,
+        "inventoryName": "GED TDSTO ATS_SK",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2199,
+        "inventoryName": "GED TDSTO ATS_SC",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2101,
+        "inventoryName": "GED TDBTO USEQSWAPD",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY Swap"
+    },
+    {
+        "inventoryId": 2446,
+        "inventoryName": "FUNDING TDSTO CADSSO",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED Toronto",
+        "book": ""
+    },
+    {
+        "inventoryId": 2443,
+        "inventoryName": "FUNDING TDBTO CADIDXO",
+        "inventoryCurrency": "CAD",
+        "productLine": "",
+        "region": "GED Toronto",
+        "book": ""
+    },
+    {
+        "inventoryId": 2839,
+        "inventoryName": "GED TDBLN GLOBSWP_DISCR2",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED London",
+        "book": "LN Global Swaps"
+    },
+    {
+        "inventoryId": 2739,
+        "inventoryName": "GED TDBTO USEQREVCON",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY RevCon"
+    },
+    {
+        "inventoryId": 2564,
+        "inventoryName": "GED TDSTO ETF RR",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO ETF Trading"
+    },
+    {
+        "inventoryId": 2479,
+        "inventoryName": "GED TDBTO USNOTE1 INV",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED New York",
+        "book": "NY CED"
+    },
+    {
+        "inventoryId": 2307,
+        "inventoryName": "GED TDSTO VNOTES",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED Toronto",
+        "book": "TO Vanilla Notes"
+    },
+    {
+        "inventoryId": 2203,
+        "inventoryName": "GED TDSTO ATS_SG",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2195,
+        "inventoryName": "GED TDBTO ATS_SLVFUT",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2302,
+        "inventoryName": "GED TDBTO SNOTES2",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED Toronto",
+        "book": "TO Notes 2"
+    },
+    {
+        "inventoryId": 2192,
+        "inventoryName": "GED TDSTO ATS_XZ",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Automated Strategies"
+    },
+    {
+        "inventoryId": 2162,
+        "inventoryName": "GED TDBTO CDNDLTA1_CORP_09E",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Delta One"
+    },
+    {
+        "inventoryId": 3259,
+        "inventoryName": "GED TDBTO USEQPRIME",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY ETF"
+    },
+    {
+        "inventoryId": 2241,
+        "inventoryName": "GED TDBTO GLBSWAPD",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Global Swaps"
+    },
+    {
+        "inventoryId": 2444,
+        "inventoryName": "GED TDSTO CADSSO",
+        "inventoryCurrency": "CAD",
+        "productLine": "Equity Options",
+        "region": "GED Toronto",
+        "book": "TO SS Options"
+    },
+    {
+        "inventoryId": 2780,
+        "inventoryName": "GED TDSTO GLBSWAP_OPP",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Global Swaps"
+    },
+    {
+        "inventoryId": 2172,
+        "inventoryName": "GED TDBTO GLBSWAP",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Global Swaps"
+    },
+    {
+        "inventoryId": 2102,
+        "inventoryName": "GED TDBTO USEQGLOBD",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY Swap"
+    },
+    {
+        "inventoryId": 2175,
+        "inventoryName": "GED TDBTO FUTMM",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Futures Market Making"
+    },
+    {
+        "inventoryId": 2168,
+        "inventoryName": "GED TDSTO CDNDLTA1_TD",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED Toronto",
+        "book": "TO Delta One"
+    },
+    {
+        "inventoryId": 1984,
+        "inventoryName": "GED TDBTO USEQSWAP",
+        "inventoryCurrency": "CAD",
+        "productLine": "Delta One",
+        "region": "GED New York",
+        "book": "NY Swap"
+    },
+    {
+        "inventoryId": 2440,
+        "inventoryName": "FUNDING TDSTO CADIDXO",
+        "inventoryCurrency": "CAD",
+        "productLine": "",
+        "region": "GED Toronto",
+        "book": ""
+    },
+    {
+        "inventoryId": 2720,
+        "inventoryName": "GED TDGF INTDLTA1",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Dublin",
+        "book": "Dublin Delta One"
+    },
+    {
+        "inventoryId": 2841,
+        "inventoryName": "GED TDGF GLOBSWP_DISCR2",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Dublin",
+        "book": "Dublin Global Swaps"
+    },
+    {
+        "inventoryId": 2699,
+        "inventoryName": "GED TDGF EUSSOPT",
+        "inventoryCurrency": "USD",
+        "productLine": "Equity Options",
+        "region": "GED Dublin",
+        "book": "Dublin Equity Options"
+    },
+    {
+        "inventoryId": 2840,
+        "inventoryName": "GED TDGF GLOBSWP_DISCR1",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Dublin",
+        "book": "Dublin Global Swaps"
+    },
+    {
+        "inventoryId": 2724,
+        "inventoryName": "GED TDGF EUINDXOPT",
+        "inventoryCurrency": "USD",
+        "productLine": "Equity Options",
+        "region": "GED Dublin",
+        "book": "Dublin Equity Options"
+    },
+    {
+        "inventoryId": 2719,
+        "inventoryName": "GED TDGF GLOBSWP",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Dublin",
+        "book": "Dublin Delta One"
+    },
+    {
+        "inventoryId": 2722,
+        "inventoryName": "GED TDGF GLOBARB",
+        "inventoryCurrency": "USD",
+        "productLine": "Delta One",
+        "region": "GED Dublin",
+        "book": "Dublin Delta One"
+    },
+    {
+        "inventoryId": 2726,
+        "inventoryName": "GED TDGF EUCEDOPT",
+        "inventoryCurrency": "USD",
+        "productLine": "Customized ED",
+        "region": "GED Dublin",
+        "book": "Dublin Notes"
+    },
+    {
+        "inventoryId": 3061,
+        "inventoryName": "GED TDBTO NYLLCNOTES",
+        "inventoryCurrency": "CAD",
+        "productLine": "Customized ED",
+        "region": "GED New York",
+        "book": "NY CED 2"
+    }
+]
